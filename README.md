@@ -35,6 +35,7 @@ mkdir ./log/main.py/test/unknown
 mv ./log/main.py/test/*txt ./log/main.py/test/unknown
 ```
 ## 6.Reference:
+If you find the repository useful for your work consider citing the paper:
 ```
 @inproceedings{wang2023local,
   title={Local Consensus Enhanced Siamese Network with Reciprocal Loss for Two-view Correspondence Learning},
