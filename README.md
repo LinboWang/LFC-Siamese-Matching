@@ -34,4 +34,13 @@ python main.py --use_ransac=False --data_te='../data/yfcc-sift-2000-test.hdf5' -
 mkdir ./log/main.py/test/unknown
 mv ./log/main.py/test/*txt ./log/main.py/test/unknown
 ```
-
+## 6.Reference:
+```
+@inproceedings{wang2023local,
+  title={Local Consensus Enhanced Siamese Network with Reciprocal Loss for Two-view Correspondence Learning},
+  author={Wang, Linbo and Wu, Jing and Fang, Xianyong and Liu, Zhengyi and Cao, Chenjie and Fu, Yanwei},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={5235--5243},
+  year={2023}
+}
+```
